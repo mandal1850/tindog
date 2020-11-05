@@ -156,7 +156,6 @@ p{
 
 #footer{
   text-align: center;
-  /* margin: 2%; */
   background-color: #ff4c68;
 }
 .textf{
@@ -165,6 +164,7 @@ p{
   font-weight: bold;
   padding: 12px;
   color: #fff;
+  margin-bottom:0;
 }
 .iconlast{
   padding: 2px 1.2%;
